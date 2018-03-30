@@ -28,3 +28,6 @@ def sumList = {list ->
 }
 
 sumList.call(list2)
+
+
+
